@@ -1,1 +1,2 @@
 msg gitgub - I am demofile1
+msg github - VS Code, get my msg
