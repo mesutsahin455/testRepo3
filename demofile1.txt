@@ -5,4 +5,4 @@ msg VSC - changed on local repo
 msg VSC - local changes to github one
 msg VSC - local changes to github one by git push method
 msg github - last try
-
+msg VSC - git push not working
