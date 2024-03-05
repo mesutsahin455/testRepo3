@@ -4,5 +4,5 @@ msg github - demofile is happy to be active
 msg VSC - changed on local repo
 msg VSC - local changes to github one
 msg VSC - local changes to github one by git push method
-git push 
+msg github - last try
 
