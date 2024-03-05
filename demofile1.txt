@@ -2,4 +2,5 @@ msg gitgub - I am demofile1
 msg github - VS Code, get my msg
 msg github - demofile is happy to be active
 msg VSC - changed on local repo
-msg VSC - local changes github one
+msg VSC - local changes to github one
+msg VSC - local changes to github one by git push method
